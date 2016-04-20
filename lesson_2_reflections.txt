@@ -8,9 +8,11 @@ What are some situations when branches would be helpful in keeping your history 
 - when im creating different variations of a product or making some experiments
 
 How do the diagrams help you visualize the branch structure?
+
 - i can understand where each file gets stored and the sequences of the new brancehs created
 
 
 
-
 This is a change on Master branch
+
+THIS IS A CHANGE ON BRANCH ref2
